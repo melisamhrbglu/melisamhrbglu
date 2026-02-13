@@ -61,3 +61,8 @@ Worked with mathematical modeling and numerical methods.
 ## 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/melisa-m-26976811b/)
 
+---
+
+## 📊 GitHub Stats
+
+![Melisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melisamhrbglu&show_icons=true)
