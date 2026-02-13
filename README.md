@@ -71,5 +71,5 @@ Prepared test scenarios, reported bugs, and validated system requirements.
 ---
 
 ## 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/melisa-m-26976811b/)
+[LinkedIn](https://www.linkedin.com/in/melisamhrbglu/)
 
