@@ -41,7 +41,7 @@ I approach software not only as code, but as systems that must be structured, re
 
 ## 🚀 Featured Work
 
-### 📱 Municipality Smart City Application
+### 📱🎓 Gazimagusa Municipality Smart City Application (Graduation Project)
 Developed and optimized mobile UI screens using React Native.  
 Built reusable components and navigation structures while working in a 3-person Agile team.
 
@@ -49,6 +49,18 @@ Built reusable components and navigation structures while working in a 3-person 
 Designed and implemented a real-time quadcopter control model.  
 Applied PID-based control logic and system timing constraints (20 Hz refresh rate).  
 Worked with mathematical modeling and numerical methods.
+
+### 🏫 Website Testing – METU Northern Cyprus Campus
+Performed functional and usability testing of institutional web platform.  
+Prepared test scenarios, reported bugs, and validated system requirements.
+
+---
+
+## 📌 Other Engineering Projects
+- ♻️ Organization Waste Disposal (Lead Programmer | Network Designer)
+- 🏥 Pharmacy Information System
+ 
+---
 
 ## 📊 GitHub Goals
 
@@ -61,8 +73,3 @@ Worked with mathematical modeling and numerical methods.
 ## 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/melisa-m-26976811b/)
 
----
-
-## 📊 GitHub Stats
-
-![Melisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melisamhrbglu&show_icons=true)
