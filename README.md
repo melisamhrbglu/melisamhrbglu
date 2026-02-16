@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Melisa Mehrübeoğlu 
+# Hi, I'm Melisa Mehrübeoğlu 
 
-### Junior Software Engineer | Front-End Developer
+### Software Engineer | Front-End Developer
 
 🎓 Software Engineering student at Eastern Mediterranean University  
 📍 Focused on Mobile Development, Front-End Architecture & Real-Time Systems  
